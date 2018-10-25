@@ -1,0 +1,6 @@
+from gpiozero import OutputDevice
+motor1P1 = 4
+motor1P2 = 14
+
+a = OutputDevice(motor1P1)
+b = OutputDevice(motor1P2)
