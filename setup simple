@@ -1,4 +1,7 @@
 from gpiozero import OutputDevice
+# created 10/15/18
+# Any Questions, contact Cynthia on stack
+
 motor1P1 = 4
 motor1P2 = 14
 
