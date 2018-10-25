@@ -1,5 +1,6 @@
 from time import sleep
 import RPi.GPIO as GPIO
+# Resource: https://www.rototron.info/raspberry-pi-stepper-motor-tutorial/
 
 DIR = 20   # Direction GPIO Pin
 STEP = 21  # Step GPIO Pin
